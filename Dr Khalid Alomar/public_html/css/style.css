@@ -1,0 +1,66 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.profilePic {
+    width: 200px;
+    
+    box-shadow: 0 0 10px #777;
+}
+
+.iconsaboutme{
+    margin-top: 10px;
+}
+
+.iconsaboutme button {
+    background-color: #fff;
+    margin: 5px;
+    box-shadow: 0 0 5px #555;
+}
+.iconsaboutme button img{
+    width: 60%;
+}
+
+.aboutme button{
+    background-color: #787878;
+    color: white;
+    box-shadow: 0 0 5px #444;
+    margin: 5px;
+}
+
+.bottompart{
+    background: #0fb5b3;
+    margin-top: 5px;
+    color: white;
+    border-radius: 5px;
+}
+
+.bottompart .col-sm-4 {
+    margin-top: 15px;
+    color: white;
+}
+.bottompart h1{
+    font-weight: bold;
+}
+.bottompart p {
+    font-size: 12px;
+    color: #444;
+}
+
+.bottompart button {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    padding: 0;
+    padding-top: 10px;
+}
+
+button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 20px black;
+}
+
+
+.bottompart button p {
+    font-size: 20px;
+    margin-top: 5px;
+}
